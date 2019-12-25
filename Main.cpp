@@ -11,11 +11,11 @@ int main()
 
 	do
 	{
-		cout << " Ââåäèòå a " << endl;
+		cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ a " << endl;
 		cin >> a;
-		cout << "Ââåäèòå b " << endl;
+		cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ b " << endl;
 		cin >> b;
-		cout << "Ââåäèòå c " << endl;
+		cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ c " << endl;
 		cin >> c;
 
 		system("cls");
@@ -24,7 +24,7 @@ int main()
 		First_obj.print();
 
 		cout << endl;
-		cout << "Íàæìèòå äëÿ ïðîäîëæåíèÿ" << endl;
+		cout << "ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ" << endl;
 		key_pressed = _getch();
 		system("cls");
 
