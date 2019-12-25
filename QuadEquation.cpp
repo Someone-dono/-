@@ -27,11 +27,11 @@ void QuadEquation::GetSqrt()
 		{
 			if (!c)
 			{
-				cout <<"Корней нет" << endl;
+				cout <<"РљРѕСЂРЅРµР№ РЅРµС‚" << endl;
 			}
 			else
 			{
-				cout << "Корней нет" << endl;
+				cout << "РљРѕСЂРЅРµР№ РЅРµС‚" << endl;
 			}
 		}
 		else {
@@ -53,7 +53,7 @@ void QuadEquation::GetSqrt()
 		}
 		else
 		{
-			cout << "Корней нет" << endl;
+			cout << "РљРѕСЂРЅРµР№ РЅРµС‚" << endl;
 		}
 	}
 };
@@ -67,7 +67,7 @@ void QuadEquation::print()
 		cout << "X2 = " << _sqrt2 << endl;
 	}
 	else if (Des == 0)
-		cout << "Один корень X = " << _sqrt << endl;
+		cout << "РћРґРёРЅ РєРѕСЂРµРЅСЊ X = " << _sqrt << endl;
 	
 };
 ==============================================
